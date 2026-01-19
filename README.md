@@ -6,6 +6,11 @@ My name is **DONG YICHEN**, and I am currently a postgraduate student specializi
 
 I am at the early stage of my cybersecurity journey, but I am highly motivated to build a solid foundation in network security, system hardening, and ethical hacking. This portfolio documents my growth, the projects I work on, and the skills I am developing as I move towards a professional career in cybersecurity.
 
+## Skills Summary
+- Strong interest in network security and defensive strategies.
+- Able to learn independently through online platforms and guided labs.
+- Capable of documenting work clearly using GitHub and Markdown.
+
 ---
 
 ## 2. Technical Skills
