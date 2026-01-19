@@ -139,7 +139,7 @@ My long-term goal is to develop into a cybersecurity professional who can help o
 
 ### Long-Term Objectives
 - Earn an entry-level cybersecurity certification to validate my skills.  
-- Gradually move towards more advanced roles, such as penetration testing or security engineering, after gaining enough experience.  
+- Gradually move towards more advanced roles, such as penetration testing or security engineering, after gaining enough practical experience in real or simulated environments.  
 - Contribute back to the cybersecurity community by sharing learning notes, tools, or write-ups once I reach a more advanced level.
 
 ---
